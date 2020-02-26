@@ -1,5 +1,5 @@
 # INLUPPG3-AJS
-AngularJS inlämningsuppgift 3 - Oliver Larsson
+AngularJS inlämningsuppgift 3
 
 Du ska i denna inlämningsuppgift bygga vidare på Inlämningsuppgift del 1 och 2. Se till att du har allt klart i Inlämningsuppgift del 1 och del 2 innan du påbörjar denna del.
 
